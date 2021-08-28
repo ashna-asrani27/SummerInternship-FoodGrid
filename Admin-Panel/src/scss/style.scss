@@ -1,0 +1,34 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Import CoreUI styles
+@import "~@coreui/coreui/scss/coreui.scss";
+
+// Some temp fixes
+@import "fixes";
+
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+// If you want to add something do it here
+@import "custom";
+
+// .imgcls{
+//     padding: 20px;
+// }
+
+.h1{
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.image{
+    // height: 400px;
+    // width: 800px;
+    // height: 50vw;
+    // width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+
+}

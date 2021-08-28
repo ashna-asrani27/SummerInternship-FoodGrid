@@ -1,0 +1,58 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.pcls
+{
+    font-size:5px ;
+
+}
+.pcls
+{
+    font-size:5px ;
+    text-align: justify;
+   
+
+}
+
+.des{
+    margin-right:10px;
+}
+.itemprice{
+    margin-bottom: 7px;
+}
+
+
+.subheadcls
+{
+    text-align: left;
+    font-size: 16px;
+    position: relative;
+    top:-2px;
+    left:10px;
+}
+
+.acls
+{
+    font-size: 18px;
+    margin-top: 17px;
+}
+.btncls
+{
+    /* height: 300px;
+    width: 300px; */
+    padding: 5px;
+    /* float: right; */
+    position: relative;
+     bottom:6px; 
+    left: -5px;
+    background-color: white;
+    border-width: 2px;
+    color:black
+    /* right: 0px; */
+    /* background-color: #ffa803; */
+}
+.dirCls
+{
+    font-weight: 500;
+}
+
+
